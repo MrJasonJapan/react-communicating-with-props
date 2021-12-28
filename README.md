@@ -1,3 +1,8 @@
+# Use this app to see how React props work.
+
+## Private Notion Memo:
+https://www.notion.so/spagettys/Communicating-with-Props-3d0eeebb6b57403cb672edec275f9f30
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
